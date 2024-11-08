@@ -1,1 +1,1 @@
-# Fashion-MNSIT-Classification
+# Fashion-MNSIT-Classification using CNN
